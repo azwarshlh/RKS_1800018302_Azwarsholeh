@@ -3,3 +3,7 @@
 Penjelasan Aplikasi : bahwa front end mengikuti sesuai dengan rancangan wireframe,workflow dan dokumentasi kebutuhan.
 
 Folder tautan UTS : https://drive.google.com/drive/folders/1-0lASG4KQAodjN8E9agSzkBBtuKf4O4s
+
+# Halaman Login
+Pada halaman ini user disuruh login terlebih dahulu agar bisa masuk ke menu utama
+<img src="Menu login.jpeg">
