@@ -4,6 +4,12 @@ Penjelasan Aplikasi : bahwa front end mengikuti sesuai dengan rancangan wirefram
 
 Folder tautan UTS : https://drive.google.com/drive/folders/1-0lASG4KQAodjN8E9agSzkBBtuKf4O4s
 
+Kriteria Front-End:
+1. Dibuat dengan menggunakan html, css dan bootstrap
+2. Menggunakan Data dummy/fake
+3. Terdapat button yang mengarah ke halaman lain atau data dummy
+4. Tidak menggunakan logic atau database
+
 # Halaman Login
 Pada halaman ini user disuruh login terlebih dahulu agar bisa masuk ke menu utama
 <img src="Menu login.jpeg">
